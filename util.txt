@@ -1,0 +1,8 @@
+koi_longp, koi_model_chisq, koi_model_dof, koi_ingress, koi_sage,
+    rowid, kepoi_name, kepler_name,
+    koi_vet_stat, koi_vet_date, koi_disp_prov, koi_parm_prov,
+    koi_tce_delivname, koi_datalink_dvr, koi_datalink_dvs,
+    koi_limbdark_mod, koi_trans_mod, koi_ldm_coeff3, koi_ldm_coeff4,
+    koi_disposition, koi_pdisposition, koi_score, koi_comment,
+    koi_fpflag_nt, koi_fpflag_ss, koi_fpflag_co, koi_fpflag_ec,
+    koi_max_mult_ev, koi_dicco_msky, koi_dikco_msky, koi_bin_oedp_sig

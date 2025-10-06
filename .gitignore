@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+__pycache__/
+
+*.log
+*.aux 
+
+AutogluonModels/
+models/
+
+.venv/
